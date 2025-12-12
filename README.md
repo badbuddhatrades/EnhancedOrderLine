@@ -23,7 +23,8 @@ Enhanced OrderLine provides clear visual representation of your active trading p
 
 ## Screenshots
 
-*[Add screenshot of indicator on chart]*
+<img width="1388" height="888" alt="image" src="https://github.com/user-attachments/assets/e7f0ce28-ad62-488e-ba60-bce184695c82" />
+
 
 ---
 
