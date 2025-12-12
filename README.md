@@ -25,6 +25,10 @@ Enhanced OrderLine provides clear visual representation of your active trading p
 
 <img width="1388" height="888" alt="image" src="https://github.com/user-attachments/assets/e7f0ce28-ad62-488e-ba60-bce184695c82" />
 
+</p>
+
+
+<img width="1392" height="902" alt="image" src="https://github.com/user-attachments/assets/335ec149-cccb-4cb8-abb1-05985ba2f340" />
 
 ---
 
