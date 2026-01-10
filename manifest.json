@@ -1,15 +1,9 @@
 {
-  "version": "2.0.1.0",
-  "downloadUrl": "https://badbuddhacustoms.com/products/enhanced-orderline",
-  "published": "2025-12-112",
-  "breakingChanges": false,
-  "changelog": [
-    "Position entry line with customizable color",
-    "Profit target lines with cumulative P&L labels",
-    "Stop loss lines with full position risk labels",
-    "Risk/reward zone shading with configurable opacity",
-    "Label alignment options (Left/Center/Right)",
-    "Optimized SharpDX rendering with cached TextLayouts",
-    "Auto-update service integration"
-  ]
+  "product": "BadBuddha_EnhancedOrderLineLite",
+  "version": "2.1.1.0",
+  "releaseDate": "2026-01-07",
+  "type": "indicator",
+  "tier": "lite",
+  "minNinjaTraderVersion": "8.0.0.0",
+  "downloadUrl": "https://ninjascript-downloads.badbuddhacustoms.workers.dev/download/EnhancedOrderLine-Lite/2.1.1.0?source=update"
 }
